@@ -16,7 +16,7 @@ Eğer aradığınız soruların cevapları GitHub docs'ta yok ise Google'lama be
    Bir kod yazarken ya acaba şöyle bir şey denesem de olur diye düşündük ama mevcut kod üzerinden ilerlemek istemiyoruz. o zaman branch oluştururuz.
 
 4. Pull Request'in amacı nedir?
-   Ben bu koddaki şu sorunu çözdüm, şuraya şöyle bir şey ekledim, daha iyi oldu, sen de bu kodu kullanmak istersin belki demek için pull request yaparız.
+   Ben bu koddaki şu sorunu çözdüm, şuraya şöyle bir şey ekledim, daha iyi oldu, sen de bu kodu kullanmak istersin belki demek için pull request yaparız
 
 5. Bir Branchten diğerine geçmek için kullanıdığımız KOMUT nedir? Örneğin ADINIZ-SOYADINIZ branch'inde çalıştığınızı hayal edin ve main branch'ine geçmek istiyorsunuz.
    git checkout brachinadı komutunu yazarız
